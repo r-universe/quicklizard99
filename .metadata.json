@@ -2,5 +2,9 @@
   {
     "package": "cheddar",
     "oncran": true
+  },
+  {
+    "package": "Homeric",
+    "oncran": true
   }
 ]

@@ -8,3 +8,8 @@
 	url = https://github.com/quicklizard99/cheddar
 	shallow = true
 	registered = true
+[submodule "Homeric"]
+	path = Homeric
+	url = https://github.com/quicklizard99/homeric
+	shallow = true
+	registered = true
