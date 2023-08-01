@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "cheddar"]
-	path = cheddar
-	url = https://github.com/quicklizard99/cheddar
 [submodule "Homeric"]
 	path = Homeric
 	url = https://github.com/quicklizard99/homeric
+[submodule "cheddar"]
+	path = cheddar
+	url = https://github.com/quicklizard99/cheddar
